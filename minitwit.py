@@ -6,7 +6,7 @@
     A microblogging application written with Flask and Neo4j.
 
     :copyright: (c) 2010 by Armin Ronacher.
-    :copyright: (c) 2013 by Vahid chakoshy
+    :copyright: (c) 2013 by Vahid chakoshy.
     :license: BSD, see LICENSE for more details.
 """
 
